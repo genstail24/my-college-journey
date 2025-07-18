@@ -1,4 +1,4 @@
-# Snippets code for college subject
+# MyCollegeJourney are Snippets code for college subject
 
 Kumpulan **snippet kode**, **latihan sederhana**, dan **program pendek** dari berbagai mata kuliah selama perkuliahan. Disusun per matkul dan sesi, ditulis untuk latihan, praktikum, atau dokumentasi pribadi.
 
